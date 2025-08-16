@@ -1,0 +1,2 @@
+Tasks:
+id, title, description, priority, assigneeId, status, dueDate, created, updated
